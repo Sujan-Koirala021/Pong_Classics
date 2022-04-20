@@ -1,6 +1,4 @@
-# Copyright 2022 by Sujan Koirala, Institute of Engineering, Pulchowk
-# All rights reserved
-
+# Sujan Koirala, Institute of Engineering, Pulchowk
 
 import pygame, sys, math
 from pygame.locals import *
